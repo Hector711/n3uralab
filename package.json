@@ -12,6 +12,12 @@
     "check-format": "prettier --check ."
   },
   "dependencies": {
+    "@fontsource-variable/lexend-giga": "^5.0.19",
+    "@fontsource-variable/lexend-mega": "^5.0.19",
+    "@fontsource-variable/lexend-peta": "^5.0.14",
+    "@fontsource-variable/lexend-tera": "^5.0.14",
+    "@fontsource-variable/lexend-zetta": "^5.0.14",
+    "@fontsource/krona-one": "^5.0.14",
     "next": "14.2.7",
     "react": "^18",
     "react-dom": "^18"

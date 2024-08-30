@@ -8,6 +8,24 @@ importers:
 
   .:
     dependencies:
+      '@fontsource-variable/lexend-giga':
+        specifier: ^5.0.19
+        version: 5.0.19
+      '@fontsource-variable/lexend-mega':
+        specifier: ^5.0.19
+        version: 5.0.19
+      '@fontsource-variable/lexend-peta':
+        specifier: ^5.0.14
+        version: 5.0.14
+      '@fontsource-variable/lexend-tera':
+        specifier: ^5.0.14
+        version: 5.0.14
+      '@fontsource-variable/lexend-zetta':
+        specifier: ^5.0.14
+        version: 5.0.14
+      '@fontsource/krona-one':
+        specifier: ^5.0.14
+        version: 5.0.14
       next:
         specifier: 14.2.7
         version: 14.2.7(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(sass@1.77.8)
@@ -63,6 +81,24 @@ packages:
   '@eslint/js@8.57.0':
     resolution: {integrity: sha512-Ys+3g2TaW7gADOJzPt83SJtCDhMjndcDMFVQ/Tj9iA1BfJzFKD9mAUXT3OenpuPHbI6P/myECxRJrofUsDx/5g==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
+
+  '@fontsource-variable/lexend-giga@5.0.19':
+    resolution: {integrity: sha512-FBJXWoyV6AIsPjfwmhhSOx9D6cRMqcFINOIAhldEmKpqObBi2YX205e7LLSuG35beLPiYePzzyxn+2vPQRTAQQ==}
+
+  '@fontsource-variable/lexend-mega@5.0.19':
+    resolution: {integrity: sha512-Ol8pMJubHM3NbxLcSG9WJwhj7SCSmaqLarJ/5E0SL1/w+CoxOkSwhWDuKSorc2xS83HAQ7NBR6b90sVtT5FCWA==}
+
+  '@fontsource-variable/lexend-peta@5.0.14':
+    resolution: {integrity: sha512-6ja3u4b8FKUXEph0j2Fob/pYp5mrIpdnA77OAqRLm5Bw7VWsvBlMj3YrS/OD2kaLnbIbqtUEEEDIkLZoSWNS5w==}
+
+  '@fontsource-variable/lexend-tera@5.0.14':
+    resolution: {integrity: sha512-d90oPRmDiQmWXyi+ICyvYfA7PnumoJBHG7/CTvp5Tgx62dXbIKCeKiuCyFfSR4ROb1oQbQsfOvvovkB2sGLX3Q==}
+
+  '@fontsource-variable/lexend-zetta@5.0.14':
+    resolution: {integrity: sha512-sUBo/3gnajktkaJjgIDzPU++A/988cDVKR2lUObZ6Sh9wUr4pB4d3boMmvg1oguOpF6bDEQfMm7FryMm6QxJfQ==}
+
+  '@fontsource/krona-one@5.0.14':
+    resolution: {integrity: sha512-EnjQ7Fchcjq6NIOxh2S9Adxj9gJ3mT6Qfh6XYdIEecmyfuwGFUkc8OpHnzKYfBvZqMMD6/MaG0STYw7+ANSuug==}
 
   '@humanwhocodes/config-array@0.11.14':
     resolution: {integrity: sha512-3T8LkOmg45BV5FICb15QQMsyUSWrQ8AygVfC7ZG32zOalnqrilm018ZVCw0eapXux8FtA33q8PSRSstjee3jSg==}
@@ -1552,6 +1588,18 @@ snapshots:
       - supports-color
 
   '@eslint/js@8.57.0': {}
+
+  '@fontsource-variable/lexend-giga@5.0.19': {}
+
+  '@fontsource-variable/lexend-mega@5.0.19': {}
+
+  '@fontsource-variable/lexend-peta@5.0.14': {}
+
+  '@fontsource-variable/lexend-tera@5.0.14': {}
+
+  '@fontsource-variable/lexend-zetta@5.0.14': {}
+
+  '@fontsource/krona-one@5.0.14': {}
 
   '@humanwhocodes/config-array@0.11.14':
     dependencies:

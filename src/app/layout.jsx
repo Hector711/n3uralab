@@ -2,6 +2,21 @@ import { Inter } from "next/font/google";
 
 // INIT
 import "@/css/reset/reset.scss";
+import "@/css/globals.scss";
+
+// FONTS
+// 'Krona One'
+import '@fontsource/krona-one';
+// 'Lexend Giga Variable': Supports weights 100-900
+import '@fontsource-variable/lexend-giga';
+// 'Lexend Mega Variable': Supports weights 100-900
+import '@fontsource-variable/lexend-mega';
+// 'Lexend Peta Variable': Supports weights 100-900
+import '@fontsource-variable/lexend-peta';
+// 'Lexend Tera Variable': Supports weights 100-900
+import '@fontsource-variable/lexend-tera';
+// 'Lexend Zetta Variable': Supports weights 100-900
+import '@fontsource-variable/lexend-zetta';
 
 const inter = Inter({ subsets: ["latin"] });
 

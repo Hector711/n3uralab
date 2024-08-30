@@ -1,1 +1,20 @@
 @import 'variables';
+
+h1 {
+  font-family: 
+  'Lexend Peta Variable',
+  'Krona One',
+  
+  'Lexend Giga Variable', 
+  'Lexend Mega Variable',
+
+  'Lexend Tera Variable',
+  
+  'Lexend Zetta Variable'
+  ;
+  font-size: 3rem;
+  font-weight: 550;
+  background: linear-gradient(20deg, #232323, #232323, #604646, #d24444, #e90d0d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
